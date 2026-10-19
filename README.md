@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080915,35:24123D,68:FF3B8D,100:25DDE8&height=230&section=header&text=LEONIDA&fontSize=82&fontColor=FFFFFF&fontAlignY=37&desc=A+PORTFOLIO+BUILT+BEFORE+GTA+VI&descSize=16&descAlignY=59&animation=fadeIn" alt="Leonida — a portfolio built before GTA VI" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080915,35:24123D,68:FF3B8D,100:25DDE8&height=230&section=header&text=LEONIDA&fontSize=82&fontColor=FFFFFF&fontAlignY=37&desc=WE+GOT+A+NEW+PORTFOLIO+BEFORE+GTA+VI&descSize=16&descAlignY=59&animation=fadeIn" alt="Leonida — a portfolio built before GTA VI" width="100%" />
 </p>
 
 <p align="center">
