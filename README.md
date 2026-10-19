@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://satyajitbeura.vercel.app/"><img src="https://img.shields.io/badge/ENTER-LEONIDA-25DDE8?style=for-the-badge&labelColor=10101B" alt="Visit Leonida" /></a>
-  <a href="https://leonida-vi-clock.vercel.app/"><img src="https://img.shields.io/badge/GTA%20VI-19%20NOV%202026-FF3B8D?style=for-the-badge&labelColor=10101B" alt="GTA VI scheduled release date" /></a>
+  <a href="https://www.rockstargames.com/VI"><img src="https://img.shields.io/badge/GTA%20VI-19%20NOV%202026-FF3B8D?style=for-the-badge&labelColor=10101B" alt="GTA VI scheduled release date" /></a>
   <a href="https://github.com/SatyajitBeura2468/leonida"><img src="https://img.shields.io/badge/PROJECT-LEONIDA-9B5CFF?style=for-the-badge&labelColor=10101B" alt="Leonida GitHub repository" /></a>
 </p>
 
@@ -35,7 +35,7 @@ And before anyone asks, **RDR2 is still my favourite game.** Arthur Morgan, you 
 ## ⏳ The wait is almost over
 
 <p align="center">
-  <a href="https://www.rockstargames.com/VI">
+  <a href="https://leonida-vi-clock.vercel.app/">
     <img src="https://leonida-vi-clock.vercel.app/api/countdown" alt="GTA VI Countdown" width="100%" />
   </a>
 </p>
