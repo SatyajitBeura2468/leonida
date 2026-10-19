@@ -40,8 +40,6 @@ And before anyone asks, **RDR2 is still my favourite game.** Arthur Morgan, you 
   </a>
 </p>
 
-> **Want it ticking in real time?** The image is built to animate in supported SVG viewers, but GitHub may cache embedded images. [Open the live Leonida clock](https://leonida-vi-clock.vercel.app/) for a browser-synced countdown that updates every second.
-
 One month to go. My expectations are completely reasonable.
 
 *They are not.*
