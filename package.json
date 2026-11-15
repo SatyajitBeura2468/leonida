@@ -1,0 +1,12 @@
+{
+  "name": "leonida",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@modelcontextprotocol/server": "^2.4.0",
+    "@vercel/blob": "^2.3.0",
+    "zod": "^4.0.0"
+  }
+}
