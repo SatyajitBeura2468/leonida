@@ -119,7 +119,8 @@ function constantTimeEqual(left, right) {
   return a.length === b.length && crypto.timingSafeEqual(a, b);
 }
 
-export default async function handler(request) {
+export default {
+  async fetch(request) {
   const expected = process.env.BEURAVERSE_MCP_API_KEY;
   const authorization = request.headers.get("authorization") || "";
   const presented = authorization.startsWith("Bearer ") ? authorization.slice(7) : "";
@@ -144,4 +145,5 @@ export default async function handler(request) {
     statusText: response.statusText,
     headers
   });
-}
+  }
+};
